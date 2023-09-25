@@ -7,7 +7,7 @@ Updates:
 
 v1.1.0 - ignores case on for domain when extracting and analysis
 
-This is a GUI for the CLI tool /noarche/ComboScriptPro. The functionality is the same however it works with text boxes instead of input and output text files. 
+This is a GUI for the CLI tool https://github.com/noarche/ComboScriptPro. The functionality is the same however it works with text boxes instead of input and output text files. 
 
         print("Option 1; To extract all lines for earthlink.net enter @earthlink.net | If you want to extract all .net domains enter .net | This will create text documents named what you enter | When extracting lines are appended and never overwrite.")
        
