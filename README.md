@@ -5,7 +5,7 @@ Manipulate Email:Pass combo, All in one tool.
 
 Updates: 
 
-v1.1.0 - ignores case on for domain when extracting and analysis
+v1.1.1 - ignores case on for domain when extracting and analysis
 
 This is a GUI for the CLI tool https://github.com/noarche/ComboScriptPro. The functionality is the same however it works with text boxes instead of input and output text files. 
 
