@@ -12,6 +12,11 @@ v1.1.1 - ignores case on for domain when extracting and analysis
 # About
 This is a GUI for the CLI tool https://github.com/noarche/ComboScriptPro. The functionality is the same however it works with text boxes instead of input and output text files. 
 
+
+[![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche)](https://github.com/noarche/github-readme-stats)
+
+
+
         print("Option 1; To extract all lines for earthlink.net enter @earthlink.net | If you want to extract all .net domains enter .net | This will create text documents named what you enter | When extracting lines are appended and never overwrite.")
        
 				print("Option 2; Remove duplicate lines from input.txt & saves to output.txt | Output.txt gets overwritten so always move it or rename it.") 
