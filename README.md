@@ -13,9 +13,26 @@ v1.1.1 - ignores case on for domain when extracting and analysis
 # About
 This is a GUI for the CLI tool https://github.com/noarche/ComboScriptPro. The functionality is the same however it works with text boxes instead of input and output text files. 
 
+## Support
+
+Drop a tip
+
+    (BTC) address bc1qnpjpacyl9sff6r4kfmn7c227ty9g50suhr0y9j
+    
+    (ETH) address 0x94FcBab18E4c0b2FAf5050c0c11E056893134266
+    
+    (LTC) address ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx
+
+
 
 ![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
 
+
+# Need Proxylist?
+
+Check out my proxylist repo for free API links. 
+
+https://github.com/noarche/proxylist-socks5-sock4-exported-updates
 
 
         print("Option 1; To extract all lines for earthlink.net enter @earthlink.net | If you want to extract all .net domains enter .net | This will create text documents named what you enter | When extracting lines are appended and never overwrite.")
