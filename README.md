@@ -34,6 +34,10 @@ Check out my proxylist repo for free API links.
 
 https://github.com/noarche/proxylist-socks5-sock4-exported-updates
 
+# Want the command line script version of this app?
+
+https://github.com/noarche/ComboScriptPro
+
 
         print("Option 1; To extract all lines for earthlink.net enter @earthlink.net | If you want to extract all .net domains enter .net | This will create text documents named what you enter | When extracting lines are appended and never overwrite.")
        
