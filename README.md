@@ -34,9 +34,11 @@ Check out my proxylist repo for free API links.
 
 https://github.com/noarche/proxylist-socks5-sock4-exported-updates
 
-# Want the command line script version of this app?
+# Looking for a great dork generator? 
 
-https://github.com/noarche/ComboScriptPro
+Check out my Dork Generator, inspired by The n3r0x
+
+https://github.com/noarche/dorkGen
 
 
         print("Option 1; To extract all lines for earthlink.net enter @earthlink.net | If you want to extract all .net domains enter .net | This will create text documents named what you enter | When extracting lines are appended and never overwrite.")
