@@ -16,7 +16,8 @@ This is a GUI for the CLI tool https://github.com/noarche/ComboScriptPro. The fu
 
 
 
-# Help: What the options are: (options have been changed to buttons in the GUI but perform the same task)
+# Help: 
+### The following options are from the .py version of this application. Options have been changed to buttons in the GUI but perform the same task.
 
         Option 1; To extract all lines for earthlink.net enter @earthlink.net | If you want to extract all .net domains enter .net | This will create text documents named what you enter | When extracting lines are appended and never overwrite.
        
