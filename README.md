@@ -9,7 +9,7 @@ The creators, contributors, and providers of this information
 and/or software shall not be held liable for any misuse or damage
 arising from its application. It is your responsibility to ensure 
 that your use complies with all applicable laws and regulations. 
-This applies to all cases ofusage, no matter whether the code as 
+This applies to all cases of usage, no matter whether the code as 
 a whole or just parts of it are being used.
 
 # ComboToolPro-GUI
