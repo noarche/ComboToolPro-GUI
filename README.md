@@ -1,6 +1,16 @@
 # Disclaimer
 
-The information and/or software provided here is intended solely for educational purposes and legal penetration testing purposes. By accessing or using this information and/or software, you acknowledge and agree that you assume full responsibility for your actions and any consequences that may result from those actions. The creators, contributors, and providers of this information and/or software shall not be held liable for any misuse or damage arising from its application. It is your responsibility to ensure that your use complies with all applicable laws and regulations.
+The information and/or software provided here is intended solely
+for educational purposes and legal penetration testing purposes. 
+By accessing or using this information and/or software, you 
+acknowledge and agree that you assume full responsibility for your
+actions and any consequences that may result from those actions. 
+The creators, contributors, and providers of this information 
+and/or software shall not be held liable for any misuse or damage
+arising from its application. It is your responsibility to ensure 
+that your use complies with all applicable laws and regulations. 
+This applies to all cases ofusage, no matter whether the code as 
+a whole or just parts of it are being used.
 
 # ComboToolPro-GUI
 Manipulate Email:Pass combo, All in one tool. 
