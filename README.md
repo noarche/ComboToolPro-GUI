@@ -13,16 +13,29 @@ This applies to all cases of usage, no matter whether the code as
 a whole or just parts of it are being used.
 
 # ComboToolPro-GUI
-Manipulate Email:Pass combo, All in one tool. 
-![screenshot](https://github.com/noarche/ComboToolPro-GUI/blob/main/September%2024%202023%200352%20AM.jpg?raw=true)
-![screenshot](https://github.com/noarche/ComboToolPro-GUI/blob/main/September%2023%202023%200158%20PM.jpg?raw=true)
-![screenshot](https://github.com/noarche/ComboToolPro-GUI/blob/main/September%2023%202023%200158%20PM%20(1).jpg?raw=true)
-![screenshot](https://github.com/noarche/ComboToolPro-GUI/blob/main/September%2023%202023%200159%20PM.jpg?raw=true)
 
-# Updates: 
-Added Email2user.py script. Convert email:pass to User:pass. 
-# Updates: 
-v1.1.1 - ignores case on for domain when extracting and analysis
+Manipulate Email:Pass combo, All in one tool. 
+
+
+![September 24 2023 0352 AM](https://github.com/user-attachments/assets/aa629cb6-feaf-417f-875d-d4d8e2853c77)
+
+
+![September 23 2023 0158 PM](https://github.com/user-attachments/assets/9e05e49d-fe8f-4a9c-9abd-c535de70b0cd)
+
+![September 23 2023 0159 PM](https://github.com/user-attachments/assets/3d50b3c1-08ba-4efb-97ce-70b2d3055fda)
+
+![September 23 2023 0158 PM (1)](https://github.com/user-attachments/assets/0fdf54bf-64b0-4fef-b758-f404fc24cbd4)
+
+
+
+
+
+
+
+
+
+
+
 
 # About
 This is a GUI for the CLI tool https://github.com/noarche/ComboScriptPro. The functionality is the same however it works with text boxes instead of input and output text files. 
