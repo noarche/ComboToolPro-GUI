@@ -120,3 +120,4 @@ Check out my Dork Generator, inspired by The n3r0x
 
 https://github.com/noarche/dorkGen
 
+![](https://gitwar.herokuapp.com/badge?username=noarche&style=flat-square)
